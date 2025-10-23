@@ -7,7 +7,7 @@ Qui ci sono i miei progetti e i miei codici. Puoi trovare:
 - 💻 **File di codice** pronti da esplorare e modificare  
 
 
-> 🚀 Sentiti libero di scaricare, esplorare e contribuire!  
+> 🚀 Sentiti libero di scaricare, esplorare e contribuire!   
 
 ---
 
