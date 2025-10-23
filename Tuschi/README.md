@@ -13,4 +13,5 @@ Qui ci sono i miei progetti e i miei codici. Puoi trovare:
 ---
 
 ## 💻​ PROGETTI IN CORSO
+### 📁 Cartella /java
 - [ ] 💲​ Progetto Schedine
