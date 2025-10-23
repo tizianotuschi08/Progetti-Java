@@ -12,5 +12,5 @@ Qui ci sono i miei progetti e i miei codici. Puoi trovare:
 
 ---
 
-## PROGETTI IN CORSO
-- [ ] Progetto Schedine
+## 💻​ PROGETTI IN CORSO
+- [ ] 💲​ Progetto Schedine
