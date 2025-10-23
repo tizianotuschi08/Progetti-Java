@@ -1,4 +1,13 @@
 
-Qui troverai tuttò cio che ti serve in merito ai programmi java, ovvero con la manipolazione di oggetti.
+# 📁 Cartella di MATTEO
 
-SPIZZA SPIZZA CHE TE PO' SERVI
+Benvenuto nella mia cartella!  
+Qui ci sono i miei progetti e i miei codici. Puoi trovare:
+
+- 📦 **Progetti** in formato `.zip` da importare  
+- 💻 **File di codice** pronti da esplorare e modificare  
+
+---
+
+> 🚀 Sentiti libero di scaricare, esplorare e contribuire!
+
