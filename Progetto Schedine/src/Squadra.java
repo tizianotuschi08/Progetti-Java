@@ -5,6 +5,7 @@ public class Squadra {
 	private boolean home=false;
 	private int numPlayers = 0;
 	private int strIndicator = 0;
+	private int strPercentage = 0;
 	private int goal=0;
 	private int redCard =0;
 	private int yellowCard=0;
@@ -17,13 +18,14 @@ public class Squadra {
 		
 	}
 	
-	public Squadra(String name, boolean home, int numPlayers, int strIndicator, int goal, int redCard, int yellowCard,
+	public Squadra(String name, boolean home, int numPlayers, int strIndicator, int strPercentage, int goal, int redCard, int yellowCard,
 			int injury, int gameWin, int gameLost, int gameDraw) {
 		super();
 		this.name = name;
 		this.home = home;
 		this.numPlayers = numPlayers;
 		this.strIndicator = strIndicator;
+		this.strPercentage = strPercentage;
 		this.goal = goal;
 		this.redCard = redCard;
 		this.yellowCard = yellowCard;
@@ -55,6 +57,14 @@ public class Squadra {
 
 	public void setStrIndicator(int strIndicator) {
 		this.strIndicator = strIndicator;
+	}
+	
+	public void setStrPercentage(int strPercentage) {
+		this.strPercentage = strPercentage;
+	}
+	
+	public int setStrPercentage() {
+		return strPercentage;
 	}
 
 	public boolean isHome() {

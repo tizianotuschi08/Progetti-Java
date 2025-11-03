@@ -1,0 +1,57 @@
+
+public class Bankroll {
+
+	
+	private String name="";
+	private String password = "";
+	private int balance = 100;
+	
+	public Bankroll() {
+		
+	}
+	
+	public Bankroll(String name, String password, int balance) {
+		super();
+		this.name = name;
+		this.password = password;
+		this.balance = balance;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
+	public int getBalance() {
+		return balance;
+	}
+
+	public void setBalance(int balance) {
+		this.balance = balance;
+	}
+	
+	public void addBalance(int balance) {
+		this.balance += balance;
+	}
+	
+	public void removeBalance(int balance) {
+		this.balance = balance;
+	}
+
+	@Override
+	public String toString() {
+		return "Bankroll [name=" + name + ", password=" + password + ", balance=" + balance + "]";
+	}
+	
+}
