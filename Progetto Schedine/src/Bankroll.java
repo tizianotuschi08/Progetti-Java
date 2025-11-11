@@ -51,7 +51,8 @@ public class Bankroll {
 
 	@Override
 	public String toString() {
-		return "Bankroll [name=" + name + ", password=" + password + ", balance=" + balance + "]";
+		return "Bank Account [nome=" + name + ", password=" + password + ", bilancio=" + balance + "]";
 	}
 	
 }
+
